@@ -1,18 +1,12 @@
-### Hi there 👋
+##  Hey there 😳
 
-[![Lefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lefantan)](https://github.com/anuraghazra/github-readme-stats)
+Thank you for visitng my profile, here are a couple links that will tell you more about me!
 
-<!--
-**LefanTan/LefanTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/lefantan">
+  <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://lefantan.com">
+  <img align="left" width="30px" src="https://screenshots.imgix.net/mui-org/material-ui-icons/insert-link-rounded/~v=3.9.2/38143043-15a9-4065-babb-73599b93091a.png?ixlib=js-1.2.0&s=f4a376d5333253bea441deaabb686f40&w=300&h=200&fit=fillmax&fm=webp"  />
+</a>
