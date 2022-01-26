@@ -8,7 +8,7 @@ Thank you for visitng my profile, here are a couple links that will tell you mor
 </a>
 &nbsp;
 <a href="https://lefantan.com">
-  <img  width="25px" src="https://www.iconsdb.com/icons/preview/white/link-xxl.png" />
+    <img src="https://img.shields.io/badge/-PORTFOLIO%20WEBSITE-red?style=for-the-badge&logo=😳" />
 </a>
 
 ###  a bit about me...
