@@ -17,3 +17,5 @@ Thank you for visitng my profile, here are a couple links that will tell you mor
 - 🤓 Currently learning more about web technologies/stack 
 - 🥊🏸 Always down for boxing and badminton
 - ☕ Fun Fact: I love brewing my own cup of coffee
+
+![Lefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lefantan&theme=calm&show_icons=true)
