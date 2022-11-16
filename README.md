@@ -12,7 +12,7 @@ Thank you for visitng my profile, here are a couple links that will tell you mor
 </a>
 
 ###  a bit about me...
-- 🎓4th year University of Alberta BSc Computer Science Student 
+- 🎓University of Alberta BSc Computer Science Alumni 
 - 🕸️**SUPER** Interested in WEB DEVELOPMENT
 - 🤓 Currently learning more about web technologies/stack 
 - 🥊🏸 Always down for boxing and badminton
