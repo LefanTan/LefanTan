@@ -14,7 +14,6 @@ Thank you for visitng my profile, here are a couple links that will tell you mor
 ###  a bit about me...
 - 🎓University of Alberta BSc Computer Science Alumni 
 - 🕸️**SUPER** Interested in WEB DEVELOPMENT
-- 🤓 Currently learning more about web technologies/stack 
 - 🥊🏸 Always down for boxing and badminton
 - ☕ Fun Fact: I love brewing my own cup of coffee
 
