@@ -11,11 +11,4 @@ Thank you for visitng my profile, here are a couple links that will tell you mor
     <img src="https://img.shields.io/badge/-PORTFOLIO%20WEBSITE-red?style=for-the-badge" />
 </a>
 
-###  a bit about me...
-- 🎓University of Alberta BSc Computer Science Alumni 
-- 🕸️**SUPER** Interested in WEB DEVELOPMENT
-- 🥊🏸 Always down for boxing and badminton
-- ☕ Fun Fact: I love brewing my own cup of coffee
-
-![Lefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lefantan&theme=calm&show_icons=true&count_private=true)  
 ![](https://komarev.com/ghpvc/?username=lefantan&color=yellow)
